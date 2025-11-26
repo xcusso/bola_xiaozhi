@@ -17,5 +17,5 @@ MAC:                90:70:69:31:83:f8
 
 Mirar aixó: https://xdaforums.com/t/unlock-root-twrp-unbrick-amazon-echo-show-8-1st-gen-2019-crown.4766687/
 
-i aixo: https://github.com/dinki/View-Assist
+i aixo: https://github.com/dinki/View-Assist i https://dinki.github.io/View-Assist/
 
